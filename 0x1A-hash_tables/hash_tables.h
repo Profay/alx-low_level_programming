@@ -2,6 +2,7 @@
 #define HASH_TABLES_H
 
 #include <stdio.h>
+#include <stdlib.h>
 
 
 typedef struct hash_node_s
